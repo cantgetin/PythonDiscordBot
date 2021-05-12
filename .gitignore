@@ -1,0 +1,5 @@
+*.json
+*.bat
+.idea
+__pycache__
+venv
